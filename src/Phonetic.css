@@ -1,0 +1,17 @@
+.Phonetic a{
+text-decoration: none;
+padding: 5px;
+transition: all 500ms ease-in-out;
+color: #9a6247;
+font-size: 18px;
+font-weight: bold;
+
+}
+
+.Phonetic a:hover{
+    color: whitesmoke;
+}
+
+.Phonetic{
+    height: 40px
+}

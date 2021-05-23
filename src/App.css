@@ -1,13 +1,20 @@
 .App-logo {
   max-width: 250px;
+  max-height: 350px;
   margin: 0 auto;
   display: block;
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
+  
+}
+
+body{
+  background-color: #EDDFD8;
 }
 
 a {
   text-decoration: none;
+  color: #9A6247;
 }
 
 footer {

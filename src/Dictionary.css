@@ -1,3 +1,39 @@
 .Dictionary {
   text-align: center;
 }
+
+.Dictionary section{
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  margin: 20px 0;
+  background-color: #D5B2A1;
+  
+}
+
+.Dictionary input{
+  border-radius: 10px;
+  width: 30%;
+  padding: 10px 4px;
+  border: 1px solid #DDD;
+  color: #545454;
+  text-indent: 10px;
+}
+
+.Dictionary button{
+  border-radius: 5px;
+  padding: 5px 5px;
+  width: 150px;
+  background-color: #D7A184;
+  margin: 10px;
+  border: solid 1px #D7A184;
+  font-size: 20px;
+  color: black ;
+}
+
+button{
+transition: all ease-in-out, 500ms;
+}
+button:hover{
+  background-color: whitesmoke;
+}
